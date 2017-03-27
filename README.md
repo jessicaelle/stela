@@ -1,4 +1,7 @@
-<img src="https://dl.dropboxusercontent.com/s/rtqinu44giaelja/Stela-Logo-Horz-Grey.svg?dl=0" width="100%" height="150" alt="Stela logo"/>
+<p align="center">
+<a href="https://docs.forestgiant.com/#stela" target="_blank"><img src="https://dl.dropboxusercontent.com/s/rtqinu44giaelja/Stela-Logo-Horz-Grey.svg?dl=0" height="150" alt="Stela logo"/></a>
+</p>
+
 <p align="center">
 <a href="https://docs.forestgiant.com/stela/api/" target="_blank"><img src="https://img.shields.io/badge/docs-stela%20api-3DB55B.svg" height="25" alt="Stela API Docs"/></a>   <a href="https://gitter.im/forestgiant/Lobby" target="_blank"><img src="https://img.shields.io/badge/chat-gitter-E1463D.svg" height="25" alt="Forest Giant on Gitter"/></a>
 </p>
