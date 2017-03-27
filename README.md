@@ -1,7 +1,7 @@
-![Stela](https://dl.dropboxusercontent.com/s/gvgjb957qfczlul/fg-github-stela.png "Stela logo")
-
-[![Docs](https://img.shields.io/badge/docs-stela%20api-3DB55B.svg "Stela API Docs")](https://docs.forestgiant.com/stela/api/)
-[![Gitter](https://img.shields.io/badge/chat-gitter-E1463D.svg "Stela on Gitter")](https://gitter.im/forestgiant/Lobby)
+<img src="https://dl.dropboxusercontent.com/s/rtqinu44giaelja/Stela-Logo-Horz-Grey.svg?dl=0" width="100%" height="150" alt="Stela logo"/>
+<p align="center">
+<a href="https://docs.forestgiant.com/stela/api/" target="_blank"><img src="https://img.shields.io/badge/docs-stela%20api-3DB55B.svg" height="25" alt="Stela API Docs"/></a>   <a href="https://gitter.im/forestgiant/Lobby" target="_blank"><img src="https://img.shields.io/badge/chat-gitter-E1463D.svg" height="25" alt="Forest Giant on Gitter"/></a>
+</p>
 
 Stela is a microservice used for discovery of services with gRPC. It uses IPv6 multicast to allow for scalable, distributed discovery on premises.  The project is named after the [stone monuments](https://en.wikipedia.org/wiki/Stela) of the same name.
 
